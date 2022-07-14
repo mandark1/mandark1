@@ -4,7 +4,7 @@
 
 <h2>🔗 Connect With Me</h2>
 
-<a href="https://www.linkedin.com/in/amanda-w-a1177b209">
+<a href="www.linkedin.com/in/amanda-whittaker91">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </a>
 <br/><br/>
