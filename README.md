@@ -1,5 +1,5 @@
-<h1>Hi, my name is Amanda!  👋</h1>
-<p> Currently studying on a 16 week intensive bootcamp with School of Code. Excited to get in to the tech world once it's finished!</p>
+![Header](/HeaderSVG.png)
+<p>Currently studying on a 16 week intensive bootcamp with School of Code. Excited to get in to the tech world once I'm finished! Below are some tools I've familiarised myself with during my time on the course.</p>
 
 
 <h2>🔗 Connect With Me</h2>
