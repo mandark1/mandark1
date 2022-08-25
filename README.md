@@ -1,4 +1,4 @@
-![Header](/HeaderSVG.png)
+![Header]()
 <p>Currently studying on a 16 week intensive bootcamp with School of Code. Excited to get in to the tech world once I'm finished! Below are some tools I've familiarised myself with during my time on the course.</p>
 
 
