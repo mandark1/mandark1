@@ -1,5 +1,5 @@
 ![Header](/HeaderSVG.png)
-<p>I recently graduated from a 16 week intensive bootcamp with School of Code in August 2022 and am now looking forward to beginning my career in tech! I am extremely passionate about user experience. In my free time you'll probably find me playing Skyrim or making some crochet items!</p>
+<p>I recently graduated from a 16 week intensive bootcamp with School of Code in August 2022 and am now looking forward to beginning my career in tech! I am extremely passionate about user experience in everything I work on. <br/><br/>In my free time you'll probably find me playing Skyrim or making some crochet items!</p>
 
 
 <h2>🔗 Connect With Me</h2>
